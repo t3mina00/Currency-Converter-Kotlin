@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">CurrencyConverter</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="error_message_api">Error retrieving data from API.</string>
+    <string name="error_retry_button">Retry</string>
+    <string name="converter_title">Currency Converter</string>
+    <string name="current_rate_label">Current Rate: 1 EUR = %s %s</string>
+    <string name="updated_time_label">Updated at %s</string>
+    <string name="amount_field_label">amount</string>
+    <string name="amount_field_eur">EUR</string>
+    <string name="settings_title">Settings</string>
+    <string name="convert_to_label">Convert to</string>
+    <string name="select_currency">Select currency</string>
 </resources>
