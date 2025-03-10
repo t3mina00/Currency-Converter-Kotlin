@@ -16,7 +16,7 @@
 
 | Home Screen | Settings |
 |------------|---------|
-| <img src="./screenshots/main.png" alt="Home Screen" width="50%"> | <img src="./screenshots/settings.png" alt="Home Screen" width="50%"> |
+| <img src="./screenshots/main.png" alt="Home Screen" width="90%"> | <img src="./screenshots/settings.png" alt="Home Screen" width="90%"> |
 
 ## 🛠️ Tech Stack
 
